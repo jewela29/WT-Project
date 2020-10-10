@@ -158,3 +158,10 @@ ul {
     width: 100%; 
     left: 0; 
   }
+
+.material-icons
+{
+    align-items: center;
+    margin-right: 27rem;
+}
+
